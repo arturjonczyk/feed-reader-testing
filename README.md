@@ -1,12 +1,12 @@
 ## "Feed Reader - testing".
 It is a web-based application that reads RSS feeds.
 
-This project is last one of six projects to be performed during the course Front End Nanodegree provided by Udacity.com. (This course prepares the student to a level of Front End (junior) Developer)
-
 ### The goal of this project.
-The purpose of this project was to prepare tests for correct operation of the various elements of the application using 'Jasmine' the behavior-driven development framework.
+The purpose of this project was to write a number of tests against a pre-existing application. using 'Jasmine' the behavior-driven development framework.
 
-## What I learned?
+_This project is last one of six projects to be performed during the course Front End Nanodegree provided by Udacity.com. (This course prepares the student to a level of Front End (junior) Developer)_
+
+### What I learned?
 
 I learned how to use Jasmine to write a number of tests against a pre-existing application. Tested the underlying business logic of the application as well as the event handling and DOM manipulation.
 
